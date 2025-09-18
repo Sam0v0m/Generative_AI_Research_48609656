@@ -1,3 +1,0 @@
-Line A: Session kickoff — roles assigned (Reviewer, DevA, DevB).
-Line B: Repository seeded with structure and placeholders.
-Line C: Add your update here to intentionally create a conflict in the second round.
